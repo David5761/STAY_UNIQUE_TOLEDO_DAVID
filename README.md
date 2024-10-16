@@ -16,14 +16,7 @@ Este proyecto realiza el scraping de al menos 100 propiedades de hoteles en Book
 
 ## Configuración del Entorno
 
-1. Clonar el repositorio:
-
-```bash
-git clone https://github.com/tuusuario/nombre-proyecto.git
-cd nombre-proyecto
-```
-
-2. Instalar dependencias: Asegúrate de tener Python y pip instalados. Luego, instala las dependencias:
+1. Instalar dependencias: Asegúrate de tener Python y pip instalados. Luego, instala las dependencias:
 
 ```bash
 pip install -r requirements.txt
@@ -31,7 +24,7 @@ pip install -r requirements.txt
 
 Se debe instalar todas las librerias que estan en el archivo requirements.txt
 
-3. Instalar navegadores de Playwright: Ejecuta este comando para instalar los navegadores necesarios:
+2. Instalar navegadores de Playwright: Ejecuta este comando para instalar los navegadores necesarios:
 
 Nota: Utilicé Playwright en mi proyecto porque es una herramienta eficaz para automatizar navegadores y realizar scraping en sitios web dinámicos como Booking.com.
 
