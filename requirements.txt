@@ -1,0 +1,4 @@
+playwright==1.31.1
+pyee==9.0.4
+python-dateutil==2.8.2
+pytz==2022.7.1
